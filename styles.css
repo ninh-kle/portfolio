@@ -1,0 +1,20 @@
+/* #welcome-section {
+    border: 1px solid black;
+    height: 500px;
+}
+
+#projects {
+    border: 1px solid black;
+    height: 500px;
+}
+
+#contact {
+    border: 1px solid black;
+    height: 500px;
+} */
+
+#self-photo {
+    width: 250px;
+    height: 250px;
+    background-color: aquamarine;
+}
